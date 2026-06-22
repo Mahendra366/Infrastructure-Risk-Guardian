@@ -1,0 +1,6 @@
+{
+  "name": "DataCenter Risk Guardian",
+  "description": "An industry-grade risk management dashboard for data center infrastructure, implementing ISO 31000 standards with real-time risk analysis and AI-powered mitigation strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
